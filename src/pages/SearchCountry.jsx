@@ -1,6 +1,8 @@
 import { Container, Heading, Section } from 'components';
+import { useParams } from 'react-router-dom';
 
 const SearchCountry = () => {
+  
   return (
     <Section>
       <Container>
